@@ -6,3 +6,8 @@ Data analysis of Yelp dataset using SQL.
 ## ER Diagram
 
 ![yelpER](yelp_ER_diagram.png)
+
+
+## Certificate
+
+![Certificate](certificate.png)
